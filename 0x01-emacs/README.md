@@ -1,4 +1,4 @@
-0x01. Emacs
+**0x01. Emacs**
 Allowed editors: Emacs
 A README.md file at the root of the holbertonschool-zero_day repo, containing a description of the repository
 A README.md file, at the root of the folder of this project (e.g. 0x01-emacs), describing what this project is about
